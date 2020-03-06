@@ -14,6 +14,7 @@ Our dataset is continually increased over consecutive installments of the challe
 ## News
 
 ```
+2020-03-06 annotations added
 2020-03-05 repo created
 ```
 
@@ -30,4 +31,14 @@ Past challenges:
 
 Please send your request to [wosdetc@googlegroups.com](mailto:wosdetc@googlegroups.com).  
 You will be asked to sign a data usage agreement and can then use the data for research purposes.  
+## Data
+
+Please send your request to [wosdetc@googlegroups.com](mailto:wosdetc@googlegroups.com).  
+You will be asked to sign a data usage agreement and can then use the data for research purposes.  
+
+### Annotations
+The annotations are provided as text files with one line per frame in the matching video:  
+```
+framenum num_objs_in_frame obj1_x obj1_y obj1_w obj1_h obj1_class ...
+```  
 If you find problems in the data, feel free to create an [issue](https://github.com/wosdetc/challenge/issues).
