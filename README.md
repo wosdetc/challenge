@@ -14,6 +14,7 @@ Our dataset is continually increased over consecutive installments of the challe
 ## News
 
 ```
+2020-03-30 Despite AVSS 2020 being cancelled, the challenge will go ahead in an online format. Further details will be released next week.
 2020-03-06 annotations added
 2020-03-05 repo created
 ```
