@@ -25,9 +25,9 @@ Our dataset is continually increased over consecutive installments of the challe
 You can find participation details, schedule, and evaluation details at the [Challenge Website](https://wosdetc2023.wordpress.com/drone-vs-bird-detection-challenge/).  
   
 Past challenges:
-[2022 - at ICIAP Lecce](https://wosdetc2022.wordpress.com/drone-vs-bird-detection-challenge/)
-[2021 - at AVSS (virtual)](https://wosdetc2021.wordpress.com/drone-vs-bird-detection-challenge/)
-[2020 - virtual](https://wosdetc2020.wordpress.com/drone-vs-bird-detection-challenge/)  
+[2022 - at ICIAP Lecce](https://wosdetc2022.wordpress.com/drone-vs-bird-detection-challenge/)    
+[2021 - at AVSS (virtual)](https://wosdetc2021.wordpress.com/drone-vs-bird-detection-challenge/)   
+[2020 - virtual](https://wosdetc2020.wordpress.com/drone-vs-bird-detection-challenge/)   
 [2019 - at AVSS Taipei](https://wosdetc2019.wordpress.com/challenge/)  
 [2017 - at AVSS Lecce](https://wosdetc.wordpress.com/challenge/)  
 
