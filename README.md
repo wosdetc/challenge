@@ -20,12 +20,14 @@ Our dataset is continually increased over consecutive installments of the challe
 2020-03-05 repo created
 ```
 
-## Challenge 2020 Details
+## Challenge 2023 Details
 
-You can find participation details, schedule, and evaluation details at the [Challenge Website](https://wosdetc2020.wordpress.com/drone-vs-bird-detection-challenge/).  
+You can find participation details, schedule, and evaluation details at the [Challenge Website](https://wosdetc2023.wordpress.com/drone-vs-bird-detection-challenge/).  
   
-Past challenges:  
-[2020 - at AVSS Washington D.C.](https://wosdetc2020.wordpress.com/drone-vs-bird-detection-challenge/)  
+Past challenges:
+[2022 - at ICIAP Lecce](https://wosdetc2022.wordpress.com/drone-vs-bird-detection-challenge/)
+[2021 - at AVSS (virtual)](https://wosdetc2021.wordpress.com/drone-vs-bird-detection-challenge/)
+[2020 - virtual](https://wosdetc2020.wordpress.com/drone-vs-bird-detection-challenge/)  
 [2019 - at AVSS Taipei](https://wosdetc2019.wordpress.com/challenge/)  
 [2017 - at AVSS Lecce](https://wosdetc.wordpress.com/challenge/)  
 
@@ -41,6 +43,6 @@ You will be asked to sign a data usage agreement and can then use the data for r
 ### Annotations
 The annotations are provided as text files with one line per frame in the matching video:  
 ```
-framenum num_objs_in_frame obj1_x obj1_y obj1_w obj1_h obj1_class ...
+framenum num_objs_in_frame obj1_x_left obj1_y_top obj1_w obj1_h obj1_class ...
 ```  
 If you find problems in the data, feel free to create an [issue](https://github.com/wosdetc/challenge/issues).
